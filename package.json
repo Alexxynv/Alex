@@ -1,0 +1,19 @@
+{
+  "name": "git-basics",
+  "version": "1.0.0",
+  "description": "A boilerplate for the Git Basics course in Booost",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/booost/boilerplates/git-basics.git"
+  },
+  "author": "Association Booost",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/booost/boilerplates/git-basics/issues"
+  },
+  "homepage": "https://gitlab.com/booost/boilerplates/git-basics#readme"
+}
